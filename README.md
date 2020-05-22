@@ -3,6 +3,7 @@
 ## Angular
 - [Code Craft Angular Course](https://codecraft.tv/courses/angular/quickstart/overview/)
 - [The Complete Angular Course: Beginner to Advanced (Angular 4)](https://www.udemy.com/course/the-complete-angular-master-class/)
+- [A look at major features in the Angular Ivy version 9 release](https://medium.com/angular-in-depth/a-look-at-major-features-in-the-angular-ivy-version-9-release-3a2f4202b8c1)
 - [Angular Route Resolvers Nedir ?](https://medium.com/@kursatcoskun/angular-route-resolvers-nedir-4c19bec1eea3)
 - [Angular State Management ve NGXS Kullanımı](https://medium.com/@kursatcoskun/angular-state-management-and-ngxs-usage-c6e02b603723)
 - [Angular Form Türleri Nelerdir?](https://medium.com/@ozanturhan/angular-reactive-ve-template-driven-form-nedir-45b5a22efb5f)
