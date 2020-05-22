@@ -20,6 +20,7 @@
 - [NGXS Facade](https://medium.com/ngxs/ngxs-facade-3aa90c41497b)
 
 ## RxJS
+- [RxJS Dev](https://rxjs-dev.firebaseapp.com/guide/overview)
 - [RxJS Best Practices](https://medium.com/better-programming/rxjs-best-practices-7f559d811514)
 
 ## State Management
