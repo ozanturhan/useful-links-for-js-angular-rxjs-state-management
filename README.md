@@ -1,4 +1,4 @@
-# Usefull Articles For Javascript, Angular, State Management
+# Usefull Links/Articles For Javascript, Angular, State Management
 
 ## Angular
 - [Code Craft Angular Course](https://codecraft.tv/courses/angular/quickstart/overview/)
