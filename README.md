@@ -54,3 +54,4 @@
 
 ## Genel Programlama Prensipleri
 - [SOLID Design Principles Explained: The Single Responsibility Principle](https://stackify.com/solid-design-principles/)
+- [Tasarım Desenleri Türkçe Kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak)
