@@ -1,4 +1,4 @@
-# Useful Links For Javascript, Angular, State Management
+# Useful Links For Javascript, Angular, State Management Etc.
 
 ## Angular
 - [Code Craft Angular Course](https://codecraft.tv/courses/angular/quickstart/overview/)
