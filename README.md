@@ -12,6 +12,7 @@
 - [Angular Change Detection Explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
 - [Angular Change Detection Explained Demo Repository](https://github.com/thoughtram/angular2-change-detection-demos)
 - [Visual detecting changes in the component tree](https://github.com/Angular-RU/change-detection-tree/blob/master/README.md)
+- [Ng Conf 2020 Videos](https://videos.ng-conf.org/videos/day-1-keynote)
 
 ## Project Structure
 - [Building an enterprise-grade Angular project structure](https://frontend.consulting/building-an-enterprise-grade-angular-project-structure)
