@@ -48,6 +48,7 @@
 - [How to write unit tests for Angular code that uses the HttpClient?](https://blog.angulartraining.com/how-to-write-unit-tests-for-angular-code-that-uses-the-httpclient-429fa782eb15)
 - [Angular Testing In TDD | Shai Reznik | AngularConnect 2018](https://www.youtube.com/watch?v=k9LWSh2xxjM)
 - [Techniques and practices for testing Angular - Duncan Hunter & Adam Stephensen](https://www.youtube.com/watch?v=lTKhB6uAmno)
+- [Speactator Unit Testing Framework](https://github.com/ngneat/spectator)
 
 ## Diğer
 - [NX Angular Monorepo](https://nx.dev/angular)
