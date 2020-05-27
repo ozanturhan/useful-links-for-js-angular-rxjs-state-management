@@ -37,6 +37,7 @@
 - [JavaScript’te “Değişmezlik”](https://medium.com/@oguzkilic/javascriptte-de%C4%9Fi%C5%9Fmezlik-11b895a730d8)
 - [BFF ile Ön Yüz Uygulamalarınız için Veri Modelinizi Optimize Edin](https://medium.com/@oguzkilic/backend-for-frontend-8166adc3d564)
 - [Tarayıcılar JavaScript’i Nasıl Yorumlar?](https://medium.com/@oguzkilic/taray%C4%B1c%C4%B1lar-javascripti-nas%C4%B1l-yorumlar-fbdfc472f8e3)
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ## Typescript
 - [Typescript Decorator Nedir?](https://medium.com/@ozanturhan/typescript-decorator-nedir-ab95c13f891)
