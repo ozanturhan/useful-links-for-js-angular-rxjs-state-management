@@ -13,6 +13,7 @@
 - [Angular Change Detection Explained Demo Repository](https://github.com/thoughtram/angular2-change-detection-demos)
 - [Visual detecting changes in the component tree](https://github.com/Angular-RU/change-detection-tree/blob/master/README.md)
 - [Ng Conf 2020 Videos](https://videos.ng-conf.org/videos/day-1-keynote)
+- [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 
 ## Project Structure
 - [Building an enterprise-grade Angular project structure](https://frontend.consulting/building-an-enterprise-grade-angular-project-structure)
