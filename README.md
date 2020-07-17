@@ -27,6 +27,7 @@
 ## RxJS
 - [RxJS Dev](https://rxjs-dev.firebaseapp.com/guide/overview)
 - [RxJS Best Practices](https://medium.com/better-programming/rxjs-best-practices-7f559d811514)
+- [Hot vs Cold Observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
 
 ## State Management
 - [NGXS Nedir? Angularda State Management Nasıl Yapılır?](https://medium.com/@ahmetuyar/ngxs-nedir-angularda-state-management-nas%C4%B1l-yap%C4%B1l%C4%B1r-389718faf699)
