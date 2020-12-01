@@ -44,6 +44,7 @@
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [Javascript Nasıl Çalışır?](http://devnot.com/2020/javascript-nasil-calisir/)
 - [🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly)](https://dev.to/deepu105/visualizing-memory-management-in-v8-engine-javascript-nodejs-deno-webassembly-105p)
+- [Avoiding Memory Leaks in Node.js: Best Practices for Performance](https://blog.appsignal.com/2020/05/06/avoiding-memory-leaks-in-nodejs-best-practices-for-performance.html)
 
 ## Typescript
 - [Typescript Decorator Nedir?](https://medium.com/@ozanturhan/typescript-decorator-nedir-ab95c13f891)
