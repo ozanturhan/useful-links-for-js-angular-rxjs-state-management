@@ -43,6 +43,7 @@
 - [Tarayıcılar JavaScript’i Nasıl Yorumlar?](https://medium.com/@oguzkilic/taray%C4%B1c%C4%B1lar-javascripti-nas%C4%B1l-yorumlar-fbdfc472f8e3)
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [Javascript Nasıl Çalışır?](http://devnot.com/2020/javascript-nasil-calisir/)
+- [🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly)](https://dev.to/deepu105/visualizing-memory-management-in-v8-engine-javascript-nodejs-deno-webassembly-105p)
 
 ## Typescript
 - [Typescript Decorator Nedir?](https://medium.com/@ozanturhan/typescript-decorator-nedir-ab95c13f891)
